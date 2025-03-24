@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{181C02F8-6BA6-473C-997B-83C638C18F3F}|Projekt_TO\\Projekt_TO.csproj|c:\\users\\likei\\onedrive\\pulpit\\studia\\technologie_obiektowe\\projekt_to\\projekt_to\\controller\\controllers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{181C02F8-6BA6-473C-997B-83C638C18F3F}|Projekt_TO\\Projekt_TO.csproj|solutionrelative:projekt_to\\controller\\controllers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{181C02F8-6BA6-473C-997B-83C638C18F3F}|Projekt_TO\\Projekt_TO.csproj|C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\projekt_to\\model\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{181C02F8-6BA6-473C-997B-83C638C18F3F}|Projekt_TO\\Projekt_TO.csproj|solutionrelative:projekt_to\\model\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{181C02F8-6BA6-473C-997B-83C638C18F3F}|Projekt_TO\\Projekt_TO.csproj|C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\projekt_to\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{181C02F8-6BA6-473C-997B-83C638C18F3F}|Projekt_TO\\Projekt_TO.csproj|solutionrelative:projekt_to\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{181C02F8-6BA6-473C-997B-83C638C18F3F}|Projekt_TO\\Projekt_TO.csproj|C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\projekt_to\\migrations\\20250323132748_update-enddate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{181C02F8-6BA6-473C-997B-83C638C18F3F}|Projekt_TO\\Projekt_TO.csproj|solutionrelative:projekt_to\\migrations\\20250323132748_update-enddate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{181C02F8-6BA6-473C-997B-83C638C18F3F}|Projekt_TO\\Projekt_TO.csproj|C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\projekt_to\\migrations\\20250322161252_first_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{181C02F8-6BA6-473C-997B-83C638C18F3F}|Projekt_TO\\Projekt_TO.csproj|solutionrelative:projekt_to\\migrations\\20250322161252_first_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{181C02F8-6BA6-473C-997B-83C638C18F3F}|Projekt_TO\\Projekt_TO.csproj|C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\projekt_to\\migrations\\20250322175610_adding_isrent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{181C02F8-6BA6-473C-997B-83C638C18F3F}|Projekt_TO\\Projekt_TO.csproj|solutionrelative:projekt_to\\migrations\\20250322175610_adding_isrent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{181C02F8-6BA6-473C-997B-83C638C18F3F}|Projekt_TO\\Projekt_TO.csproj|C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\projekt_to\\view\\views.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{181C02F8-6BA6-473C-997B-83C638C18F3F}|Projekt_TO\\Projekt_TO.csproj|solutionrelative:projekt_to\\view\\views.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250322175610_adding_IsRent.cs",
+              "DocumentMoniker": "C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\Projekt_TO\\Migrations\\20250322175610_adding_IsRent.cs",
+              "RelativeDocumentMoniker": "Projekt_TO\\Migrations\\20250322175610_adding_IsRent.cs",
+              "ToolTip": "C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\Projekt_TO\\Migrations\\20250322175610_adding_IsRent.cs",
+              "RelativeToolTip": "Projekt_TO\\Migrations\\20250322175610_adding_IsRent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T13:24:42.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Controllers.cs",
+              "DocumentMoniker": "C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\Projekt_TO\\Controller\\Controllers.cs",
+              "RelativeDocumentMoniker": "Projekt_TO\\Controller\\Controllers.cs",
+              "ToolTip": "C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\Projekt_TO\\Controller\\Controllers.cs",
+              "RelativeToolTip": "Projekt_TO\\Controller\\Controllers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T16:46:23.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250323132748_update-enddate.cs",
+              "DocumentMoniker": "C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\Projekt_TO\\Migrations\\20250323132748_update-enddate.cs",
+              "RelativeDocumentMoniker": "Projekt_TO\\Migrations\\20250323132748_update-enddate.cs",
+              "ToolTip": "C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\Projekt_TO\\Migrations\\20250323132748_update-enddate.cs",
+              "RelativeToolTip": "Projekt_TO\\Migrations\\20250323132748_update-enddate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T13:27:48.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250322161252_First_init.cs",
+              "DocumentMoniker": "C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\Projekt_TO\\Migrations\\20250322161252_First_init.cs",
+              "RelativeDocumentMoniker": "Projekt_TO\\Migrations\\20250322161252_First_init.cs",
+              "ToolTip": "C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\Projekt_TO\\Migrations\\20250322161252_First_init.cs",
+              "RelativeToolTip": "Projekt_TO\\Migrations\\20250322161252_First_init.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T13:24:18.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Views.cs",
+              "DocumentMoniker": "C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\Projekt_TO\\View\\Views.cs",
+              "RelativeDocumentMoniker": "Projekt_TO\\View\\Views.cs",
+              "ToolTip": "C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\Projekt_TO\\View\\Views.cs",
+              "RelativeToolTip": "Projekt_TO\\View\\Views.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T16:45:54.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Models.cs",
+              "DocumentMoniker": "C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\Projekt_TO\\Model\\Models.cs",
+              "RelativeDocumentMoniker": "Projekt_TO\\Model\\Models.cs",
+              "ToolTip": "C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\Projekt_TO\\Model\\Models.cs",
+              "RelativeToolTip": "Projekt_TO\\Model\\Models.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA5wBMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T16:44:58.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\Projekt_TO\\Program.cs",
+              "RelativeDocumentMoniker": "Projekt_TO\\Program.cs",
+              "ToolTip": "C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\Projekt_TO\\Program.cs",
+              "RelativeToolTip": "Projekt_TO\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T15:42:52.016Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
