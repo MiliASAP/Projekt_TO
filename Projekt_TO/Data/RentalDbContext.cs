@@ -12,7 +12,7 @@ namespace Projekt_TO.Data
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Server=DESKTOP-1UT6E74\\SQLEXPRESS;Database=proj_TO;Trusted_Connection=True;TrustServerCertificate=True");
+            optionsBuilder.UseSqlServer("Server=LAPTOP-6A45O9RJ\\SQLEXPRESS;Database=proj_TO;Trusted_Connection=True;TrustServerCertificate=True");
         }
     }
 }

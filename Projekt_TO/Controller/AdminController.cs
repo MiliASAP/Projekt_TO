@@ -21,15 +21,19 @@ namespace Projekt_TO.Controller
                 switch (choice)
                 {
                     case "1":
+                        Console.Clear();
                         _carController.ShowAvailableCars(db, view);
                         break;
                     case "2":
+                        Console.Clear();
                         _carController.AddCar(db, view);
                         break;
                     case "3":
+                        Console.Clear();
                         _carController.RemoveCar(db, view);
                         break;
                     case "4":
+                        Console.Clear();
                         _carController.EditCar(db, view);
                         break;
                     case "5":

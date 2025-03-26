@@ -2,19 +2,8 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-
-public interface IUserView
-{
-    string GetUsername();
-    string GetPassword();
-    void DisplayLoginFailed();
-    void DisplayRentals(IEnumerable<Rental> rentals);
-    void DisplayAvailableCars(IEnumerable<Car> cars);
-    void DisplayCarAdded();
-    void DisplayCarRemoved();
-    void DisplayCarUpdated();
-}
-
+using Projekt_TO.Data.Services;
+using System.Threading;
 public class ConsoleUserView : IUserView
 {
     public string GetUsername()
@@ -32,13 +21,19 @@ public class ConsoleUserView : IUserView
     public void DisplayLoginFailed()
     {
         Console.WriteLine("Niepoprawne dane logowania!");
+        Console.Clear();
+        Thread.Sleep(1000);
+        Console.Clear();
     }
 
     public void DisplayRentals(IEnumerable<Rental> rentals)
     {
         if (rentals == null || !rentals.Any())
         {
+            Console.Clear();
             Console.WriteLine("Nie masz wynajętych żadnych samochodów.");
+            Thread.Sleep(1000);
+            Console.Clear();
             return;
         }
 
@@ -60,16 +55,25 @@ public class ConsoleUserView : IUserView
 
     public void DisplayCarAdded()
     {
+        Console.Clear();
         Console.WriteLine("Pojazd dodany.");
+        Thread.Sleep(1000); 
+        Console.Clear();
     }
 
     public void DisplayCarRemoved()
     {
+        Console.Clear();
         Console.WriteLine("Pojazd usunięty.");
+        Thread.Sleep(1000); 
+        Console.Clear();
     }
 
     public void DisplayCarUpdated()
     {
+        Console.Clear();
         Console.WriteLine("Pojazd zaktualizowany.");
+        Thread.Sleep(1000);
+        Console.Clear();
     }
 }

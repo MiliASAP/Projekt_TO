@@ -6,7 +6,7 @@ namespace Projekt_TO.Data.Services
     {
         User Login(IRentalDbContext db, IUserView view);
         void ShowUserRentals(IRentalDbContext db, User user, IUserView view);
-        void RentCar(IRentalDbContext db, User user, IUserView view);
+        void RentCar(IRentalDbContext db, User user, IUserView view, ICarController carController);
 
         void UserPanel(IRentalDbContext db, User user, IUserController userController, ICarController carController,
             IUserView userView);

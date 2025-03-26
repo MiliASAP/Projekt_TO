@@ -195,6 +195,7 @@
     <Compile Include="Data\Services\IAdminController.cs" />
     <Compile Include="Data\Services\IRentalDbContext.cs" />
     <Compile Include="Data\Services\IUserController.cs" />
+    <Compile Include="Data\Services\IUserView.cs" />
     <Compile Include="Migrations\20250322161252_First_init.cs" />
     <Compile Include="Migrations\20250322161252_First_init.Designer.cs">
       <DependentUpon>20250322161252_First_init.cs</DependentUpon>

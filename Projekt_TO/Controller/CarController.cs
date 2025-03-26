@@ -2,6 +2,7 @@
 using Projekt_TO.Model;
 using System;
 using System.Linq;
+using System.Threading;
 
 namespace Projekt_TO.Controller
 {
@@ -28,6 +29,13 @@ namespace Projekt_TO.Controller
             UpdateRentalStatus(db);
 
             var cars = db.Cars.ToList();
+            if(cars.Count == 0)
+            {
+                Console.WriteLine("Brak aut w magazynie");
+                Thread.Sleep(1000);
+                Console.Clear();
+                return;
+            }
             view.DisplayAvailableCars(cars);
         }
 
@@ -71,6 +79,12 @@ namespace Projekt_TO.Controller
                 car.RentalPricePerDay = decimal.Parse(Console.ReadLine());
                 db.SaveChanges();
                 view.DisplayCarUpdated();
+            }
+            else
+            {
+                Console.WriteLine("Pojazd o podanym ID nie istnieje w bazie.");
+                Thread.Sleep(1000);
+                Console.Clear();
             }
         }
 
