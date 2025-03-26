@@ -187,7 +187,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Controller\Controllers.cs" />
+    <Compile Include="Controller\AdminController.cs" />
+    <Compile Include="Controller\CarController.cs" />
+    <Compile Include="Controller\UserController.cs" />
+    <Compile Include="Data\RentalDbContext.cs" />
+    <Compile Include="Data\Services\ICarController.cs" />
+    <Compile Include="Data\Services\IAdminController.cs" />
+    <Compile Include="Data\Services\IRentalDbContext.cs" />
+    <Compile Include="Data\Services\IUserController.cs" />
     <Compile Include="Migrations\20250322161252_First_init.cs" />
     <Compile Include="Migrations\20250322161252_First_init.Designer.cs">
       <DependentUpon>20250322161252_First_init.cs</DependentUpon>
@@ -201,7 +208,9 @@
       <DependentUpon>20250323132748_update-enddate.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\RentalDbContextModelSnapshot.cs" />
-    <Compile Include="Model\Models.cs" />
+    <Compile Include="Model\Car.cs" />
+    <Compile Include="Model\Rental.cs" />
+    <Compile Include="Model\User.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="View\Views.cs" />
