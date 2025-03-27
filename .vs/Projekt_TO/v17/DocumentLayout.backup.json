@@ -1,78 +1,78 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Projekt_TO\\",
+  "WorkspaceRootPath": "C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{181C02F8-6BA6-473C-997B-83C638C18F3F}|Projekt_TO\\Projekt_TO.csproj|c:\\users\\user\\source\\repos\\projekt_to\\projekt_to\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{181C02F8-6BA6-473C-997B-83C638C18F3F}|Projekt_TO\\Projekt_TO.csproj|solutionrelative:projekt_to\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\Projekt_TO\\Controller\\UserController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Projekt_TO\\Controller\\UserController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{181C02F8-6BA6-473C-997B-83C638C18F3F}|Projekt_TO\\Projekt_TO.csproj|C:\\Users\\User\\source\\repos\\Projekt_TO\\projekt_to\\data\\services\\iusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{181C02F8-6BA6-473C-997B-83C638C18F3F}|Projekt_TO\\Projekt_TO.csproj|solutionrelative:projekt_to\\data\\services\\iusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\Projekt_TO\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Projekt_TO\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{181C02F8-6BA6-473C-997B-83C638C18F3F}|Projekt_TO\\Projekt_TO.csproj|C:\\Users\\User\\source\\repos\\Projekt_TO\\projekt_to\\data\\services\\icarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{181C02F8-6BA6-473C-997B-83C638C18F3F}|Projekt_TO\\Projekt_TO.csproj|solutionrelative:projekt_to\\data\\services\\icarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\Projekt_TO\\Controller\\AdminController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Projekt_TO\\Controller\\AdminController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{181C02F8-6BA6-473C-997B-83C638C18F3F}|Projekt_TO\\Projekt_TO.csproj|C:\\Users\\User\\source\\repos\\Projekt_TO\\projekt_to\\data\\services\\irentaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{181C02F8-6BA6-473C-997B-83C638C18F3F}|Projekt_TO\\Projekt_TO.csproj|solutionrelative:projekt_to\\data\\services\\irentaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\Projekt_TO\\Controller\\CarController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Projekt_TO\\Controller\\CarController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{181C02F8-6BA6-473C-997B-83C638C18F3F}|Projekt_TO\\Projekt_TO.csproj|C:\\Users\\User\\source\\repos\\Projekt_TO\\projekt_to\\controller\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{181C02F8-6BA6-473C-997B-83C638C18F3F}|Projekt_TO\\Projekt_TO.csproj|solutionrelative:projekt_to\\controller\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\Projekt_TO\\Data\\Services\\ICarController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Projekt_TO\\Data\\Services\\ICarController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{181C02F8-6BA6-473C-997B-83C638C18F3F}|Projekt_TO\\Projekt_TO.csproj|C:\\Users\\User\\source\\repos\\Projekt_TO\\projekt_to\\controller\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{181C02F8-6BA6-473C-997B-83C638C18F3F}|Projekt_TO\\Projekt_TO.csproj|solutionrelative:projekt_to\\controller\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\Projekt_TO\\Data\\Services\\IUserController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Projekt_TO\\Data\\Services\\IUserController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{181C02F8-6BA6-473C-997B-83C638C18F3F}|Projekt_TO\\Projekt_TO.csproj|C:\\Users\\User\\source\\repos\\Projekt_TO\\projekt_to\\view\\views.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{181C02F8-6BA6-473C-997B-83C638C18F3F}|Projekt_TO\\Projekt_TO.csproj|solutionrelative:projekt_to\\view\\views.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\Projekt_TO\\View\\Views.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Projekt_TO\\View\\Views.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{181C02F8-6BA6-473C-997B-83C638C18F3F}|Projekt_TO\\Projekt_TO.csproj|C:\\Users\\User\\source\\repos\\Projekt_TO\\projekt_to\\data\\services\\iuserview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{181C02F8-6BA6-473C-997B-83C638C18F3F}|Projekt_TO\\Projekt_TO.csproj|solutionrelative:projekt_to\\data\\services\\iuserview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\Projekt_TO\\Data\\Services\\IRentalDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Projekt_TO\\Data\\Services\\IRentalDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{181C02F8-6BA6-473C-997B-83C638C18F3F}|Projekt_TO\\Projekt_TO.csproj|C:\\Users\\User\\source\\repos\\Projekt_TO\\projekt_to\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{181C02F8-6BA6-473C-997B-83C638C18F3F}|Projekt_TO\\Projekt_TO.csproj|solutionrelative:projekt_to\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\Projekt_TO\\Data\\Services\\IUserView.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Projekt_TO\\Data\\Services\\IUserView.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{181C02F8-6BA6-473C-997B-83C638C18F3F}|Projekt_TO\\Projekt_TO.csproj|C:\\Users\\User\\source\\repos\\Projekt_TO\\projekt_to\\data\\rentaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{181C02F8-6BA6-473C-997B-83C638C18F3F}|Projekt_TO\\Projekt_TO.csproj|solutionrelative:projekt_to\\data\\rentaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\Projekt_TO\\Data\\RentalDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Projekt_TO\\Data\\RentalDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{181C02F8-6BA6-473C-997B-83C638C18F3F}|Projekt_TO\\Projekt_TO.csproj|C:\\Users\\User\\source\\repos\\Projekt_TO\\projekt_to\\migrations\\rentaldbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{181C02F8-6BA6-473C-997B-83C638C18F3F}|Projekt_TO\\Projekt_TO.csproj|solutionrelative:projekt_to\\migrations\\rentaldbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\Projekt_TO\\Migrations\\20250322161252_First_init.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Projekt_TO\\Migrations\\20250322161252_First_init.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{181C02F8-6BA6-473C-997B-83C638C18F3F}|Projekt_TO\\Projekt_TO.csproj|C:\\Users\\User\\source\\repos\\Projekt_TO\\projekt_to\\migrations\\20250323132748_update-enddate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{181C02F8-6BA6-473C-997B-83C638C18F3F}|Projekt_TO\\Projekt_TO.csproj|solutionrelative:projekt_to\\migrations\\20250323132748_update-enddate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\Projekt_TO\\Migrations\\20250322175610_adding_IsRent.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Projekt_TO\\Migrations\\20250322175610_adding_IsRent.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{181C02F8-6BA6-473C-997B-83C638C18F3F}|Projekt_TO\\Projekt_TO.csproj|C:\\Users\\User\\source\\repos\\Projekt_TO\\projekt_to\\migrations\\20250322175610_adding_isrent.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{181C02F8-6BA6-473C-997B-83C638C18F3F}|Projekt_TO\\Projekt_TO.csproj|solutionrelative:projekt_to\\migrations\\20250322175610_adding_isrent.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\Projekt_TO\\Migrations\\RentalDbContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Projekt_TO\\Migrations\\RentalDbContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{181C02F8-6BA6-473C-997B-83C638C18F3F}|Projekt_TO\\Projekt_TO.csproj|C:\\Users\\User\\source\\repos\\Projekt_TO\\projekt_to\\migrations\\20250322161252_first_init.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{181C02F8-6BA6-473C-997B-83C638C18F3F}|Projekt_TO\\Projekt_TO.csproj|solutionrelative:projekt_to\\migrations\\20250322161252_first_init.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\Projekt_TO\\Migrations\\20250323132748_update-enddate.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Projekt_TO\\Migrations\\20250323132748_update-enddate.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{181C02F8-6BA6-473C-997B-83C638C18F3F}|Projekt_TO\\Projekt_TO.csproj|C:\\Users\\User\\source\\repos\\Projekt_TO\\projekt_to\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{181C02F8-6BA6-473C-997B-83C638C18F3F}|Projekt_TO\\Projekt_TO.csproj|solutionrelative:projekt_to\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\Projekt_TO\\Model\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Projekt_TO\\Model\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{181C02F8-6BA6-473C-997B-83C638C18F3F}|Projekt_TO\\Projekt_TO.csproj|C:\\Users\\User\\source\\repos\\Projekt_TO\\projekt_to\\model\\rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{181C02F8-6BA6-473C-997B-83C638C18F3F}|Projekt_TO\\Projekt_TO.csproj|solutionrelative:projekt_to\\model\\rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\Projekt_TO\\Model\\Rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Projekt_TO\\Model\\Rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{181C02F8-6BA6-473C-997B-83C638C18F3F}|Projekt_TO\\Projekt_TO.csproj|C:\\Users\\User\\source\\repos\\Projekt_TO\\projekt_to\\model\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{181C02F8-6BA6-473C-997B-83C638C18F3F}|Projekt_TO\\Projekt_TO.csproj|solutionrelative:projekt_to\\model\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\Projekt_TO\\Model\\Car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Projekt_TO\\Model\\Car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{181C02F8-6BA6-473C-997B-83C638C18F3F}|Projekt_TO\\Projekt_TO.csproj|C:\\Users\\User\\source\\repos\\Projekt_TO\\projekt_to\\data\\services\\iadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{181C02F8-6BA6-473C-997B-83C638C18F3F}|Projekt_TO\\Projekt_TO.csproj|solutionrelative:projekt_to\\data\\services\\iadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\Projekt_TO\\Data\\Services\\IAdminController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Projekt_TO\\Data\\Services\\IAdminController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -90,11 +90,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Projekt_TO\\Projekt_TO\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\Projekt_TO\\Program.cs",
               "RelativeDocumentMoniker": "Projekt_TO\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Projekt_TO\\Projekt_TO\\Program.cs",
+              "ToolTip": "C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\Projekt_TO\\Program.cs",
               "RelativeToolTip": "Projekt_TO\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -102,11 +102,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "AdminController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Projekt_TO\\Projekt_TO\\Controller\\AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\Projekt_TO\\Controller\\AdminController.cs",
               "RelativeDocumentMoniker": "Projekt_TO\\Controller\\AdminController.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Projekt_TO\\Projekt_TO\\Controller\\AdminController.cs",
+              "ToolTip": "C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\Projekt_TO\\Controller\\AdminController.cs",
               "RelativeToolTip": "Projekt_TO\\Controller\\AdminController.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAYwCQAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -116,9 +116,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Projekt_TO\\Projekt_TO\\Controller\\UserController.cs",
+              "DocumentMoniker": "C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\Projekt_TO\\Controller\\UserController.cs",
               "RelativeDocumentMoniker": "Projekt_TO\\Controller\\UserController.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Projekt_TO\\Projekt_TO\\Controller\\UserController.cs",
+              "ToolTip": "C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\Projekt_TO\\Controller\\UserController.cs",
               "RelativeToolTip": "Projekt_TO\\Controller\\UserController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -127,11 +127,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "CarController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Projekt_TO\\Projekt_TO\\Controller\\CarController.cs",
+              "DocumentMoniker": "C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\Projekt_TO\\Controller\\CarController.cs",
               "RelativeDocumentMoniker": "Projekt_TO\\Controller\\CarController.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Projekt_TO\\Projekt_TO\\Controller\\CarController.cs",
+              "ToolTip": "C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\Projekt_TO\\Controller\\CarController.cs",
               "RelativeToolTip": "Projekt_TO\\Controller\\CarController.cs",
               "ViewState": "AgIAAEIAAAAAAAAAAIAwwFYAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -139,11 +139,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ICarController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Projekt_TO\\Projekt_TO\\Data\\Services\\ICarController.cs",
+              "DocumentMoniker": "C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\Projekt_TO\\Data\\Services\\ICarController.cs",
               "RelativeDocumentMoniker": "Projekt_TO\\Data\\Services\\ICarController.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Projekt_TO\\Projekt_TO\\Data\\Services\\ICarController.cs",
+              "ToolTip": "C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\Projekt_TO\\Data\\Services\\ICarController.cs",
               "RelativeToolTip": "Projekt_TO\\Data\\Services\\ICarController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -151,11 +151,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "IUserController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Projekt_TO\\Projekt_TO\\Data\\Services\\IUserController.cs",
+              "DocumentMoniker": "C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\Projekt_TO\\Data\\Services\\IUserController.cs",
               "RelativeDocumentMoniker": "Projekt_TO\\Data\\Services\\IUserController.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Projekt_TO\\Projekt_TO\\Data\\Services\\IUserController.cs",
+              "ToolTip": "C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\Projekt_TO\\Data\\Services\\IUserController.cs",
               "RelativeToolTip": "Projekt_TO\\Data\\Services\\IUserController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -165,9 +165,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Views.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Projekt_TO\\Projekt_TO\\View\\Views.cs",
+              "DocumentMoniker": "C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\Projekt_TO\\View\\Views.cs",
               "RelativeDocumentMoniker": "Projekt_TO\\View\\Views.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Projekt_TO\\Projekt_TO\\View\\Views.cs",
+              "ToolTip": "C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\Projekt_TO\\View\\Views.cs",
               "RelativeToolTip": "Projekt_TO\\View\\Views.cs",
               "ViewState": "AgIAAD8AAAAAAAAAAIAwwEwAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -175,11 +175,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "IRentalDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Projekt_TO\\Projekt_TO\\Data\\Services\\IRentalDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\Projekt_TO\\Data\\Services\\IRentalDbContext.cs",
               "RelativeDocumentMoniker": "Projekt_TO\\Data\\Services\\IRentalDbContext.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Projekt_TO\\Projekt_TO\\Data\\Services\\IRentalDbContext.cs",
+              "ToolTip": "C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\Projekt_TO\\Data\\Services\\IRentalDbContext.cs",
               "RelativeToolTip": "Projekt_TO\\Data\\Services\\IRentalDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -187,11 +187,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "IUserView.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Projekt_TO\\Projekt_TO\\Data\\Services\\IUserView.cs",
+              "DocumentMoniker": "C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\Projekt_TO\\Data\\Services\\IUserView.cs",
               "RelativeDocumentMoniker": "Projekt_TO\\Data\\Services\\IUserView.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Projekt_TO\\Projekt_TO\\Data\\Services\\IUserView.cs",
+              "ToolTip": "C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\Projekt_TO\\Data\\Services\\IUserView.cs",
               "RelativeToolTip": "Projekt_TO\\Data\\Services\\IUserView.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAASwA4AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -201,9 +201,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "RentalDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Projekt_TO\\Projekt_TO\\Data\\RentalDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\Projekt_TO\\Data\\RentalDbContext.cs",
               "RelativeDocumentMoniker": "Projekt_TO\\Data\\RentalDbContext.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Projekt_TO\\Projekt_TO\\Data\\RentalDbContext.cs",
+              "ToolTip": "C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\Projekt_TO\\Data\\RentalDbContext.cs",
               "RelativeToolTip": "Projekt_TO\\Data\\RentalDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -211,11 +211,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 10,
               "Title": "20250322161252_First_init.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Projekt_TO\\Projekt_TO\\Migrations\\20250322161252_First_init.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\Projekt_TO\\Migrations\\20250322161252_First_init.Designer.cs",
               "RelativeDocumentMoniker": "Projekt_TO\\Migrations\\20250322161252_First_init.Designer.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Projekt_TO\\Projekt_TO\\Migrations\\20250322161252_First_init.Designer.cs",
+              "ToolTip": "C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\Projekt_TO\\Migrations\\20250322161252_First_init.Designer.cs",
               "RelativeToolTip": "Projekt_TO\\Migrations\\20250322161252_First_init.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -223,11 +223,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "20250322175610_adding_IsRent.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Projekt_TO\\Projekt_TO\\Migrations\\20250322175610_adding_IsRent.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\Projekt_TO\\Migrations\\20250322175610_adding_IsRent.Designer.cs",
               "RelativeDocumentMoniker": "Projekt_TO\\Migrations\\20250322175610_adding_IsRent.Designer.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Projekt_TO\\Projekt_TO\\Migrations\\20250322175610_adding_IsRent.Designer.cs",
+              "ToolTip": "C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\Projekt_TO\\Migrations\\20250322175610_adding_IsRent.Designer.cs",
               "RelativeToolTip": "Projekt_TO\\Migrations\\20250322175610_adding_IsRent.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -235,11 +235,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "RentalDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Projekt_TO\\Projekt_TO\\Migrations\\RentalDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\Projekt_TO\\Migrations\\RentalDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Projekt_TO\\Migrations\\RentalDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Projekt_TO\\Projekt_TO\\Migrations\\RentalDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\Projekt_TO\\Migrations\\RentalDbContextModelSnapshot.cs",
               "RelativeToolTip": "Projekt_TO\\Migrations\\RentalDbContextModelSnapshot.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -247,11 +247,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "20250323132748_update-enddate.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Projekt_TO\\Projekt_TO\\Migrations\\20250323132748_update-enddate.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\Projekt_TO\\Migrations\\20250323132748_update-enddate.Designer.cs",
               "RelativeDocumentMoniker": "Projekt_TO\\Migrations\\20250323132748_update-enddate.Designer.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Projekt_TO\\Projekt_TO\\Migrations\\20250323132748_update-enddate.Designer.cs",
+              "ToolTip": "C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\Projekt_TO\\Migrations\\20250323132748_update-enddate.Designer.cs",
               "RelativeToolTip": "Projekt_TO\\Migrations\\20250323132748_update-enddate.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -261,9 +261,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Projekt_TO\\Projekt_TO\\Model\\User.cs",
+              "DocumentMoniker": "C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\Projekt_TO\\Model\\User.cs",
               "RelativeDocumentMoniker": "Projekt_TO\\Model\\User.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Projekt_TO\\Projekt_TO\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\Projekt_TO\\Model\\User.cs",
               "RelativeToolTip": "Projekt_TO\\Model\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -273,9 +273,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "Rental.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Projekt_TO\\Projekt_TO\\Model\\Rental.cs",
+              "DocumentMoniker": "C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\Projekt_TO\\Model\\Rental.cs",
               "RelativeDocumentMoniker": "Projekt_TO\\Model\\Rental.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Projekt_TO\\Projekt_TO\\Model\\Rental.cs",
+              "ToolTip": "C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\Projekt_TO\\Model\\Rental.cs",
               "RelativeToolTip": "Projekt_TO\\Model\\Rental.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -285,9 +285,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "Car.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Projekt_TO\\Projekt_TO\\Model\\Car.cs",
+              "DocumentMoniker": "C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\Projekt_TO\\Model\\Car.cs",
               "RelativeDocumentMoniker": "Projekt_TO\\Model\\Car.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Projekt_TO\\Projekt_TO\\Model\\Car.cs",
+              "ToolTip": "C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\Projekt_TO\\Model\\Car.cs",
               "RelativeToolTip": "Projekt_TO\\Model\\Car.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -297,9 +297,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "IAdminController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Projekt_TO\\Projekt_TO\\Data\\Services\\IAdminController.cs",
+              "DocumentMoniker": "C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\Projekt_TO\\Data\\Services\\IAdminController.cs",
               "RelativeDocumentMoniker": "Projekt_TO\\Data\\Services\\IAdminController.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Projekt_TO\\Projekt_TO\\Data\\Services\\IAdminController.cs",
+              "ToolTip": "C:\\Users\\likei\\OneDrive\\Pulpit\\studia\\Technologie_Obiektowe\\Projekt_TO\\Projekt_TO\\Data\\Services\\IAdminController.cs",
               "RelativeToolTip": "Projekt_TO\\Data\\Services\\IAdminController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
